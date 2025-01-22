@@ -1,0 +1,6 @@
+Programming is the process of creating programs (software). To do this, programmers write source code in one of the programming languages.
+
+There are more than 300 programming languages, but you can choose from ten of the most popular ones for a successful career. It would be even more correct to first determine the field in which you are going to work, and only then proceed to choosing a language.
+
+One of the best languages for beginners is Python. This popular general-purpose language is good for its conciseness and simplicity of syntax, and it is actively used by IT companies around the world.
+
